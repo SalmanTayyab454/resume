@@ -1241,3 +1241,7 @@ section {
 #footer .credits {
     font-size: 13px;
 }
+
+#shadow-host-companion {
+    display: none;
+}
