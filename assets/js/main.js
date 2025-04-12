@@ -212,7 +212,7 @@
     const portfolioDetailsLightbox = GLightbox({
         selector: '.portfolio-details-lightbox',
         width: '90%',
-        height: '90vh'
+        height: '90vh',
     });
 
     /**
@@ -246,7 +246,7 @@
         pagination: {
             el: '.swiper-pagination',
             type: 'bullets',
-            clickable: true
+            clickable: true,
         }
     });
 
